@@ -35,6 +35,7 @@ Returns if the `num` is between `start` and `end` (inclusive) or an error if 3 a
 returns `False`
 
 ## pascal_v1(rows, initial, printEachRowBool)
+During the planning for this function, I actually made an image. See bottom of readme.
 
 Prints the pascal's triangle using the given number of `rows`, with the `initial` as the starting number, and will not print along the way if `printEachRowBool` is `False`.
 
@@ -66,3 +67,9 @@ prints
        [1, 2, 1]
       [1, 3, 3, 1]
      [1, 4, 6, 4, 1]
+
+
+<div>
+    <img src="./pascalplan.png" style="border-radius: 20px; box-shadow: 0 0 5px 5px white"/>
+    <div style="position: absolute; bottom: 0; left: 0; z-index: 3; background-color: rgba(0,0,0,.3)">Planning pascal traingle function.</div>
+</div>
