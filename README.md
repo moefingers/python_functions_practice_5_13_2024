@@ -1,5 +1,3 @@
-# all functions are invoked at the end with their results printed
-
 ## max_num(*args):
 Returns maximum number out of arguments provided, or an error message if no arguments are given.
 
