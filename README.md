@@ -70,6 +70,7 @@ prints
 
 
 <div>
-    <img src="./pascalplan.png" style="border-radius: 20px; box-shadow: 0 0 5px 5px white"/>
     <div style="position: absolute; bottom: 0; left: 0; z-index: 3; background-color: rgba(0,0,0,.3)">Planning pascal traingle function.</div>
 </div>
+
+<img src="./pascalplan.png" style="border-radius: 20px; box-shadow: 0 0 5px 5px white"/>
